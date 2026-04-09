@@ -9,6 +9,13 @@ Connect'In est une application web composée de :
 
 ---
 
+## Equipe:
+Charlotte Larea
+Yousra Rouibi
+Noémie Tasca
+
+---
+
 ## Pré-requis
 - PHP 8.2+
 - Composer
